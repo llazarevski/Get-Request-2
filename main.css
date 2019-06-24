@@ -1,0 +1,17 @@
+input{
+    display: block;
+    margin: 5px;
+  
+  }
+  
+  .hidden{
+    display: none;
+  }
+  
+  .imageContainer{
+    width: 100%;
+  }
+  
+  .results-img{
+    border: solid 1px black;
+  }
